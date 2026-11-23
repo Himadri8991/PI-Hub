@@ -1,0 +1,21 @@
+{
+  "name": "PI Hub — Media & Document Suite",
+  "short_name": "PI Hub",
+  "description": "Every tool you could want to edit images & documents in bulk. Privacy-first & forever free.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#e11d48",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
